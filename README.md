@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi 👋, I’m @Jiyoungzzv ✨
 
-<!--
-**jiyoungzzv/jiyoungzzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently majoring in **Semiconductors** and **AI** 🧪🤖  
+These days I’m working on **lithography / metrology & inspection (MI)** images and building AI models for **defect & hotspot detection** 🔍🧠
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m working on 🔭
+- 🧫 Semiconductor process image analysis (post-litho / microscope images)
+- 📦 Dataset building & curation (annotation / QC / stats)
+- 🧠 Object Detection & Segmentation experiments (YOLO, DETR, Mask R-CNN, etc.)
+- 📝 Writing research reports / papers (experiments + results)
+
+---
+
+### Interests 🌱
+- 🛰️ Vision-Language Models (VLMs) for **explainable** defect analysis
+- 🧩 Improving small-object detection performance
+- 🏭 Practical AI systems for manufacturing & semiconductor workflows
+
+---
+
+### Call me 😄
+- 🧸 Jiyoung / Kong
+
+---
+
+### Contact 📫
+- ✉️ Email: `jykong@korea.ac.kr` / `jykong@kitech.re.kr`
+- 🔗 Google Scholar / LinkedIn / Homepage: `Nondisclosure`
+
+
