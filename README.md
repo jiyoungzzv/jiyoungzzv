@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Jiyoungzzv.
+### 👋 Hi, I’m @jiyoungzzv.
 
 I’m currently majoring in **Semiconductors** and **AI**.  
 These days I’m working on **lithography / metrology & inspection (MI)** images and building AI models for **defect & hotspot detection**.
