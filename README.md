@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @jiyoungzzv.
+### 🤗 Hi, I’m @jiyoungzzv.
 
 I’m currently majoring in **Semiconductors** and **AI**.  
 These days I’m working on **lithography / metrology & inspection (MI)** images and building AI models for **defect & hotspot detection**.
@@ -25,7 +25,7 @@ These days I’m working on **lithography / metrology & inspection (MI)** images
 
 
 
-### 📫 Contact 🤗
+### 📫 Contact 💟
 - ✉️ Email: `jykong@korea.ac.kr` / `jykong@kitech.re.kr`
 - 🔗 Google Scholar / LinkedIn / Homepage: `Available upon request`
 
